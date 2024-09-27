@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ws101-cabrera-landing-page/static/css/main.c4b15998.css",
-    "main.js": "/ws101-cabrera-landing-page/static/js/main.765f4ec6.js",
+    "main.js": "/ws101-cabrera-landing-page/static/js/main.a1a555de.js",
     "static/media/3rd.png": "/ws101-cabrera-landing-page/static/media/3rd.d5312f04a2b2787158a5.png",
     "static/media/9th.png": "/ws101-cabrera-landing-page/static/media/9th.0566dfcf65d7e5b8ede8.png",
     "static/media/7th.png": "/ws101-cabrera-landing-page/static/media/7th.2ebedadad991af1c68ad.png",
@@ -14,10 +14,10 @@
     "static/media/Logo.png": "/ws101-cabrera-landing-page/static/media/Logo.a22535d10b51b1ac98ce.png",
     "index.html": "/ws101-cabrera-landing-page/index.html",
     "main.c4b15998.css.map": "/ws101-cabrera-landing-page/static/css/main.c4b15998.css.map",
-    "main.765f4ec6.js.map": "/ws101-cabrera-landing-page/static/js/main.765f4ec6.js.map"
+    "main.a1a555de.js.map": "/ws101-cabrera-landing-page/static/js/main.a1a555de.js.map"
   },
   "entrypoints": [
     "static/css/main.c4b15998.css",
-    "static/js/main.765f4ec6.js"
+    "static/js/main.a1a555de.js"
   ]
 }
