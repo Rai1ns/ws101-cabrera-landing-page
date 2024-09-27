@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ws101-cabrera-landing-page/static/css/main.c4b15998.css",
+    "main.js": "/ws101-cabrera-landing-page/static/js/main.765f4ec6.js",
+    "static/media/3rd.png": "/ws101-cabrera-landing-page/static/media/3rd.d5312f04a2b2787158a5.png",
+    "static/media/9th.png": "/ws101-cabrera-landing-page/static/media/9th.0566dfcf65d7e5b8ede8.png",
+    "static/media/7th.png": "/ws101-cabrera-landing-page/static/media/7th.2ebedadad991af1c68ad.png",
+    "static/media/6th.png": "/ws101-cabrera-landing-page/static/media/6th.757cdfe8f7ad4af65a15.png",
+    "static/media/5th.png": "/ws101-cabrera-landing-page/static/media/5th.a3dad974e07284fb7762.png",
+    "static/media/8th.png": "/ws101-cabrera-landing-page/static/media/8th.4ac96eff0210e16d88cc.png",
+    "static/media/2nd.png": "/ws101-cabrera-landing-page/static/media/2nd.9c6fdc8b18ed45e2aa9e.png",
+    "static/media/4th.png": "/ws101-cabrera-landing-page/static/media/4th.23555ea6d9c9b9e360e9.png",
+    "static/media/1st.png": "/ws101-cabrera-landing-page/static/media/1st.54c40787d51645b554b8.png",
+    "static/media/Logo.png": "/ws101-cabrera-landing-page/static/media/Logo.a22535d10b51b1ac98ce.png",
+    "index.html": "/ws101-cabrera-landing-page/index.html",
+    "main.c4b15998.css.map": "/ws101-cabrera-landing-page/static/css/main.c4b15998.css.map",
+    "main.765f4ec6.js.map": "/ws101-cabrera-landing-page/static/js/main.765f4ec6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4b15998.css",
+    "static/js/main.765f4ec6.js"
+  ]
+}
